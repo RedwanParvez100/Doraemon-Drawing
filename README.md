@@ -1,1 +1,1 @@
-# Doraemon-Drawing
+In this project, implements one of the python libraries called Turtle to create a drawing. Python is a high level general purpose programming language and it has many useful libraries, turtle being one of them. “Doraemon Drawing” is a basic drawing project. Here draw a fictional character with the help of Turtle Library. Here use the turtle methods to build the drawing.
